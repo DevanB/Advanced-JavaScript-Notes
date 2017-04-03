@@ -1,7 +1,7 @@
-#Advanced JavaScript Course Notes
-##The "What you need to know" Parts
+# Advanced JavaScript Course Notes
+## The "What you need to know" Parts
 
-###Table of Contents
+### Table of Contents
 
 1. Scope, Closures
 2. Closures
